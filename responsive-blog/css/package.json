@@ -1,0 +1,26 @@
+{
+  "name": "responsive-blog",
+  "version": "1.0.0",
+  "description": "## Your Goals: ##",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gm": "^1.23.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-gm": "0.0.8",
+    "gulp-image-resize": "^0.12.0",
+    "imagemagick": "^0.1.3"
+  },
+  "dependencies": {
+    "gm": "^1.23.0",
+    "gulp-imagemin": "^2.4.0",
+    "imagemagick": "^0.1.3",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
