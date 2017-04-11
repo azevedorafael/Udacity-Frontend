@@ -1,0 +1,38 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+    margin:0 auto;
+    font-size: 19px;
+    line-height: 1.25em;
+    width: 50em;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+    max-width: 100%;
+
+}
+
